@@ -197,7 +197,7 @@ div.container .subtitle {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: end;
   width: 35%;
   padding: 135px;
 }
